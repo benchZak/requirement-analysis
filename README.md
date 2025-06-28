@@ -96,3 +96,51 @@ Examples for Booking Management System:
   *  The interface should be mobile-responsive and accessible to users with disabilities.
 
   *  The system should be available 99.9% of the time, ensuring high reliability.
+
+
+## Use Case Diagrams
+Use Case Diagrams are visual representations used in Requirement Analysis to describe the functional interactions between users (actors) and the system. Each diagram outlines different ways a user might interact with the application, helping teams understand system behavior from the user's perspective.
+
+Benefits of Use Case Diagrams:
+  *  Clarify System Scope: Helps identify what the system should and should not do.
+
+  *  Enhance Communication: Bridges understanding between technical and non-technical stakeholders.
+
+  *  Identify Actors and Interactions: Clearly maps out users and their goals.
+
+  *  Facilitate Test Planning: Supports the creation of user-centric test cases.
+
+Use Case Diagram for Booking Management System
+Below is the use case diagram for the booking system, showing the main actors and their interactions with the system:
+
+
+
+Main Actors and Use Cases:
+  *  Guest
+
+    *  Register / Log In
+    *  Search Properties
+    *  Book Property
+    *  View Booking History
+
+  *  Host
+    
+
+Log In
+
+List Property
+
+Manage Listings
+
+View Bookings
+
+Admin
+
+Manage Users
+
+Manage Properties
+
+Generate Reports
+
+
+  
