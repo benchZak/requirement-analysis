@@ -1,12 +1,12 @@
-# Requirement-Analysis
+## Requirement-Analysis
 
-## Requirement Analysis in Software Development
+# Requirement Analysis in Software Development
 Introduction
 This repository serves as the foundational step in analyzing and documenting the requirements for a software development project. It is part of the FeatureForge: Crafting Your Project Blueprint course and focuses on simulating real-world requirement analysis for a booking management system.
 
 The goal is to enhance understanding of the software development lifecycle (SDLC) by mastering the principles of requirement elicitation, documentation, validation, and visualization. Through a structured and practical approach, this project emphasizes the importance of clarity and precision in capturing both functional and non-functional requirements, setting the stage for successful project execution.
 
-## What is Requirement Analysis?
+# What is Requirement Analysis?
 Requirement Analysis is a critical phase in the Software Development Life Cycle (SDLC) that involves identifying, gathering, analyzing, and documenting the needs and expectations of stakeholders for a software system. It serves as the foundation upon which the entire development process is built, ensuring that the final product aligns with user needs and business goals.
 
 Importance in the SDLC
