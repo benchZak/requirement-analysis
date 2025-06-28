@@ -60,3 +60,39 @@ In this phase, requirements are examined for completeness, feasibility, and clar
  ** Requirement Validation:
   
 This final activity involves reviewing and validating the documented requirements with stakeholders to confirm they accurately reflect user needs and expectations. It helps identify any ambiguities, conflicts, or gaps before development begins.
+
+
+## Types of Requirements
+  In software development, requirements are typically categorized into two main types: Functional Requirements and Non-functional Requirements. Understanding both is essential to ensure the system performs correctly and efficiently.
+
+Functional Requirements
+Definition:
+  Functional requirements define what the system should do — the specific features, behaviors, and functions it must perform to meet the needs of users and stakeholders.
+
+Examples for Booking Management System:
+
+  *  Users must be able to register and log in securely to their accounts.
+
+  *  The system should allow users to search for available properties based on date, location, and type.
+
+  *  Hosts should be able to list new properties with details like pricing, availability, and photos.
+
+  *  Users must be able to make bookings and receive email confirmations.
+
+  *  Admins should be able to manage user accounts, property listings, and booking records.
+
+Non-functional Requirements
+Definition:
+Non-functional requirements describe how the system should perform. They cover attributes like performance, usability, security, and scalability that impact user experience and system quality.
+
+Examples for Booking Management System:
+
+  *  The system should load property search results within 2 seconds.
+
+  *  User data must be encrypted and stored securely following data protection regulations.
+
+  *  The application should support up to 10,000 concurrent users without performance degradation.
+
+  *  The interface should be mobile-responsive and accessible to users with disabilities.
+
+  *  The system should be available 99.9% of the time, ensuring high reliability.
