@@ -124,23 +124,22 @@ Main Actors and Use Cases:
     *  View Booking History
 
   *  Host
-    
 
-Log In
+    *  Log In
+    *  List Property
+    *  Manage Listings
+    *  View Bookings
 
-List Property
+  *  Admin
 
-Manage Listings
-
-View Bookings
-
-Admin
-
-Manage Users
-
-Manage Properties
-
-Generate Reports
+    *  Manage Users
+    *  Manage Properties
+    *  Generate Reports
 
 
-  
+## Use Case Diagram
+
+Below is the use case diagram illustrating the main actors and their interactions with the booking system:
+
+![Use Case Diagram](alx-booking-uc.png)
+
